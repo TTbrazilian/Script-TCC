@@ -1,0 +1,4 @@
+﻿Modelo,Precisão,Recall,F1-score,AUC-ROC,AUC-PR
+Regressão Logística,0.043,0.887,0.082,0.976,0.587
+Árvore de Decisão,0.915,0.996,0.954,0.998,0.994
+Random Forest,0.998,0.996,0.997,0.999,0.997
